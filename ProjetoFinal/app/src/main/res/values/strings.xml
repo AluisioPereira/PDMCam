@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="app_menuinicial">Menu Inicial</string>
+    <string name="app_webcam">Web Cam</string>
+    <string name="app_cofiguracaodocontrole">Configuração do Controle</string>
+    <string name="app_gravacoes">Gravações</string>
+    <string name="app_gravacao">Gravação</string>
+    <string name="app_aovivo">Ao Vivo</string>
+    <string name="bt_iciarcomocam">Iniciar como cam</string>
+    <string name="bt_iciarcomocontrole">Iniciar como controle</string>
+    <string name="bt_gravarpor1minuto">Gravar por 1 minuto</string>
+    <string name="bt_vergravacoes">Ver gravações</string>
+    <string name="bt_assistiraovivo">Assistir ao vivo</string>
+    <string name="text1">Iniciar aplicação como câmera</string>
+    <string name="text2">Para iniciar ligue o aparelho no carregador, posicione o aparelho e acione o botão "Iniciar como Cam".</string>
+    <string name="text3">Iniciar aplicação como controle</string>
+    <string name="text4">Antes de iniciar ligue a aplicação como WebCam em outro dispositivo e copie o código da WebCam.</string>
+    <string name="text5">Digite o código da WebCam e acione qualquer um dos botões abaixo.</string>
+    <string name="title_activity_ao_vivo">AoVivo</string>
+</resources>

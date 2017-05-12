@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#222225</color>
+    <color name="colorPrimaryDark">#f7f7fa</color>
+    <color name="colorAccent">#a19d9e</color>
+    <color name="colorRelative">#363636</color>
+    <color name="colorbtiniciacam">#8B0000</color>
+    <color name="colorbtinicarcontrole">#1818d4</color>
+    <color name="colorbtgravar1min">#8B0000</color>
+    <color name="colorbtvergravacao">#CDCD00</color>
+    <color name="colorbtassistiraovivo">#66CD00</color>
+    <color name="colortextgrande">#FFFFF0</color>
+    <color name="colortextmedio">#b7b5ab</color>
+    <color name="colortextbt123">#E0EEE0</color>
+    <color name="colortextbt45">#2F4F4F</color>
+    <color name="colortextcam">#FFD700</color>
+    <color name="colorbtaredondaodo">#d9051a</color>
+</resources>
